@@ -6,7 +6,7 @@
 
 ## 🔗 Ссылки
 
-- **Демо (GitHub Pages):** [https://mattuzik.github.io/Streamify](https://mattuzik.github.io/Streamify)
+- **Демо (GitHub Pages):** [https://mattuzik.github.io/Streamify](https://nfluvv.github.io/Streamify)
 - **Репозиторий:** `https://github.com/mattuzik/Streamify`
 
 ## 🛠 Стек технологий
